@@ -3,7 +3,7 @@ Repository for the BMEN 600 final term project
 
 # BMEN 600 Project
 ## Team 12: AA (Anti-Android) Meeting
-## Tala A., Brendan F., Jessica T., Irene Y.
+## Tala A., Brendan N.F., Jessica T., Irene Y.
 ## Candidate Project 1
 ### Biomedical Problem
 Investigate health care problems and general health.
