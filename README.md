@@ -24,6 +24,6 @@ https://www150.statcan.gc.ca/n1/en/type/data?text=infant+mortality&HPA=1
 Declines in Canadian infant mortality are occurring across many leading causes of death
 ## Current Decision
 We are currently leaning toward:
-Premature mortality (ages 25-64) between rural and urban counties
+Disparities in health expenditure.
 Because:
-Death certificate data queryable by cause, county, age, and year. 
+Uncertainty is more straightforward.
