@@ -28,4 +28,16 @@ Disparities in health expenditure.
 Because:
 Uncertainty is more straightforward.
 
+### October 2 
+## Project Decision
 GO — We are proceeding with "Is health-care expenditure associated with life expectancy across countries using WHO Global Health Observatory data?" and the WHO dataset.
+
+## Task - Lead(s) 
+
+Literature Review and Background Research  - Tala, Irene 
+Dataset Interpretation - Jessica, Brendan 
+Dataset cleaning/preprocessing - Brendan, Ireene 
+Analysis (statistics, machine learning, etc.) - Brendan, Jessica 
+Validation and Evaluation - Irene, Tala 
+Interpretation - Tala, Jessica 
+Documentation and Reproducibility - Jessica, Brendan 
