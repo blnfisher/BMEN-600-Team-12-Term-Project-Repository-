@@ -27,3 +27,5 @@ We are currently leaning toward:
 Disparities in health expenditure.
 Because:
 Uncertainty is more straightforward.
+
+GO — We are proceeding with "Is health-care expenditure associated with life expectancy across countries using WHO Global Health Observatory data?" and the WHO dataset.
