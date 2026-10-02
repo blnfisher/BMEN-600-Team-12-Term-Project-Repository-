@@ -41,3 +41,4 @@ Analysis (statistics, machine learning, etc.) - Brendan, Jessica \
 Validation and Evaluation - Irene, Tala \
 Interpretation - Tala, Jessica \
 Documentation and Reproducibility - Jessica, Brendan \
+
