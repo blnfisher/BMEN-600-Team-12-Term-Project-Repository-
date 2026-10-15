@@ -29,7 +29,7 @@ GO — We are proceeding with "Is health-care expenditure associated with life e
 ## Task - Lead(s) 
 
 Literature Review and Background Research  - Tala, Irene \
-Dataset Interpretation - Jessica, Brendan \
+Dataset Interpretation - Jessica, Irene \
 Dataset cleaning/preprocessing - Brendan, Irene \
 Analysis (statistics, machine learning, etc.) - Brendan, Jessica \
 Validation and Evaluation - Irene, Tala \
