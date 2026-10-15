@@ -7,7 +7,7 @@ Repository for the BMEN 600 final term project
 
 # October 15
 ### Research Question
-Is healthcare expenditure positively associated with various vategories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
+Is healthcare expenditure positively associated with various categories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
 
 ### Dataset Access Instructions
 1. Download "country_year_data.csv"
@@ -15,6 +15,9 @@ Is healthcare expenditure positively associated with various vategories of life 
 3. Run all cells, and when prompted, upload the CSV file
 4. Receive the "health_expenditure_vs_life_expectancy.png" and "life_expectancy_per_expenditure_by_year.png" in one zip file downloaded locally to computer
 5. Open zip file to download figures
+
+### Dataset Availability
+The WHO life-expectancy data, Global Health Expenditure Database, and World Health Statistics data are open access sources through WHO’s public data platforms and can be downloaded without registration or a formal data-access application. 
 
 ### AI-Assisted Work
 We used OpenAI to combine and organize our dataset to create the "country_year_data.csv" file. We also used OpenAI to develop the Google Colab code to create the two preliminary figures. Google Colab was used to generate and run our code to create our preliminary figures. 
