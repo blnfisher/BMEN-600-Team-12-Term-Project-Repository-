@@ -5,7 +5,7 @@ Repository for the BMEN 600 final term project
 ## Team 12: AA (Anti-Android) Meeting
 ## Tala A., Brendan N.F., Jessica T., Irene Y.
 
-## October 15
+# October 15
 ### Research Question
 Is healthcare expenditure positively associated with various vategories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
 
@@ -21,6 +21,20 @@ We used OpenAI to combine and organize our dataset to create the "country_year_d
 
 ## Author Contributions for Midterm Research Plan
 Tala contributed to the introduction and preliminary results. Brendan developed the code and contributed to the methods and evaluation. Jessica contributed to the dataset description, responsible use, methods, and evaluation. Irene contributed to the introduction, background research, and responsible use.
+
+# October 2 
+## Project Decision
+GO — We are proceeding with "Is health-care expenditure associated with life expectancy across countries using WHO Global Health Observatory data?" and the WHO dataset.
+
+## Task - Lead(s) 
+
+Literature Review and Background Research  - Tala, Irene \
+Dataset Interpretation - Jessica, Brendan \
+Dataset cleaning/preprocessing - Brendan, Irene \
+Analysis (statistics, machine learning, etc.) - Brendan, Jessica \
+Validation and Evaluation - Irene, Tala \
+Interpretation - Tala, Jessica \
+Documentation and Reproducibility - Jessica, Brendan
 
 # September 26
 ## Candidate Project 1
@@ -46,17 +60,3 @@ We are currently leaning toward:
 Disparities in health expenditure.
 Because:
 Uncertainty is more straightforward.
-
-### October 2 
-## Project Decision
-GO — We are proceeding with "Is health-care expenditure associated with life expectancy across countries using WHO Global Health Observatory data?" and the WHO dataset.
-
-## Task - Lead(s) 
-
-Literature Review and Background Research  - Tala, Irene \
-Dataset Interpretation - Jessica, Brendan \
-Dataset cleaning/preprocessing - Brendan, Irene \
-Analysis (statistics, machine learning, etc.) - Brendan, Jessica \
-Validation and Evaluation - Irene, Tala \
-Interpretation - Tala, Jessica \
-Documentation and Reproducibility - Jessica, Brendan
