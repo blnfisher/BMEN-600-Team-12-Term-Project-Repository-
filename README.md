@@ -5,8 +5,9 @@ Repository for the BMEN 600 final term project
 ## Team 12: AA (Anti-Android) Meeting
 ## Tala A., Brendan N.F., Jessica T., Irene Y.
 
+## October 15
 ### Research Question
-## Is healthcare expenditure positively associated with various vategories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
+Is healthcare expenditure positively associated with various vategories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
 
 ### Dataset Access Instructions
 1. Download "country_year_data.csv"
