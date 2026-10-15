@@ -16,10 +16,10 @@ Is healthcare expenditure positively associated with various vategories of life 
 4. Receive the "health_expenditure_vs_life_expectancy.png" and "life_expectancy_per_expenditure_by_year.png" in one zip file downloaded locally to computer
 5. Open zip file to download figures
 
-## AI-Assisted Work
+### AI-Assisted Work
 We used OpenAI to combine and organize our dataset to create the "country_year_data.csv" file. We also used OpenAI to develop the Google Colab code to create the two preliminary figures. Google Colab was used to generate and run our code to create our preliminary figures. 
 
-## Author Contributions for Midterm Research Plan
+### Author Contributions for Midterm Research Plan
 Tala contributed to the introduction and preliminary results. Brendan developed the code and contributed to the methods and evaluation. Jessica contributed to the dataset description, responsible use, methods, and evaluation. Irene contributed to the introduction, background research, and responsible use.
 
 # October 2 
