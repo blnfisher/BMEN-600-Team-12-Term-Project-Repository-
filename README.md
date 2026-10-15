@@ -3,7 +3,7 @@ Repository for the BMEN 600 final term project
 
 # BMEN 600 Project
 ## Team 12: AA (Anti-Android) Meeting
-## Tala A., Brendan N.F., Jessica T., Irene Y.
+### Tala A., Brendan N.F., Jessica T., Irene Y.
 
 # October 15
 ### Research Question
