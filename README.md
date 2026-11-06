@@ -8,6 +8,9 @@ Repository for the BMEN 600 final term project
 # November 6
 ### Team Plan & Progress for Reading Week
 
+### Evidence of Progress
+We worked on dividing up our roles and tasks for the final report and oral presentation. We also continued discussions on how we will segment our data (i.e. by continent, demographic, health condition) so that we can continue developing our code for statistical analysis and data visualization.
+
 ### Peer Checkpoint (12 <-> 16)
 1) Groups 12 and 16 were paired together because our research is similar in terms of methodology and analysis.
 2) We got some suggestions in terms of analysis and model types such as using regression and random-forest models in addition to our planned statistical tests. It may also be interesting to segment the data by demographics and health conditions.
@@ -31,7 +34,7 @@ We will all start working on our final report and oral presentation (roles as se
 ### Implementation of feedback from Midterm Research Plan
 Clarify plans to adjust expenditure values based on inflation. Could the decline in Figure 2 reflect increasing prices due to inflation? \
 Define planned statistical models and comparisons \
-Use more AI and add more peer-reviewed papers in literature review.
+Use more AI in statistical analysis (i.e. coding) and compare findings to more peer-reviewed papers.
 
 # October 15 - Midterm Research Plan
 ### Research Question
