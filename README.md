@@ -25,12 +25,13 @@ Research question - Irene/Tala \
 Data analysis and workflow - Brendan/Jessica \
 Results and Discussion - All 
 
-### Plan for Progress
-Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
+### Reading Break Work Plan
+We will all start working on our final report and oral presentation (roles as seen above). Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
 
 ### Implementation of feedback from Midterm Research Plan
 Clarify plans to adjust expenditure values based on inflation. Could the decline in Figure 2 reflect increasing prices due to inflation? \
-Define planned statistical models and comparisons
+Define planned statistical models and comparisons \
+Use more AI and add more peer-reviewed papers in literature review.
 
 # October 15 - Midterm Research Plan
 ### Research Question
