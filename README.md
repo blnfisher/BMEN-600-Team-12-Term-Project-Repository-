@@ -19,7 +19,7 @@ Conclusion: Brendan & Jessica
 ### Roles - Oral Presentation
 Research question - Irene/Tala \
 Data analysis and workflow - Brendan/Jessica \
-Results and Discussion - All \
+Results and Discussion - All 
 
 ### Plan for Progress
 Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
