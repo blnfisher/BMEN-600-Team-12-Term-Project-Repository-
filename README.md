@@ -14,7 +14,7 @@ Introduction: Irene/Tala \
 Dataset & Methods: Brendan & Jessica \
 Results: All \
 Discussion: All \
-Conclusion: Brendan & Jessica \
+Conclusion: Brendan & Jessica 
 
 ### Roles - Oral Presentation
 Research question - Irene/Tala \
