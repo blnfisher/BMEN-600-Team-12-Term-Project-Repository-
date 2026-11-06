@@ -5,7 +5,30 @@ Repository for the BMEN 600 final term project
 ## Team 12: AA (Anti-Android) Meeting
 ### Tala A., Brendan N.F., Jessica T., Irene Y.
 
-# October 15
+# November 6
+### Team Plan & Progress for Reading Week
+
+### Final Report Roles
+Abstract: Irene
+Introduction: Irene/Tala
+Dataset & Methods: Brendan & Jessica
+Results: All
+Discussion: All
+Conclusion: Brendan & Jessica
+
+### Roles - Oral Presentation
+Research question - Irene/Tala
+Data analysis and workflow - Brendan/Jessica
+Results and Discussion - All
+
+### Plan for Progress
+Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
+
+### Implementation of feedback from Midterm Research Plan
+Clarify plans to adjust expenditure values based on inflation. Could the decline in Figure 2 reflect increasing prices due to inflation? 
+Define your planned statistical models and comparisons
+
+# October 15 - Midterm Research Plan
 ### Research Question
 Is healthcare expenditure positively associated with various categories of life expectancy across countries using WHO (World Health Organization) Global Health Observatory data?
 
