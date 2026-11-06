@@ -16,7 +16,7 @@ We worked on dividing up our roles and tasks for the final report and oral prese
 2) We got some suggestions in terms of analysis and model types such as using regression and random-forest models in addition to our planned statistical tests. It may also be interesting to segment the data by demographics and health conditions.
 
 ### Reading Break Work Plan
-We will all start working on our final report and oral presentation (roles as seen above). Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
+We will all start working on our final report and oral presentation (roles as seen below). Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
 
 ### Final Report Roles
 Abstract: Irene \
