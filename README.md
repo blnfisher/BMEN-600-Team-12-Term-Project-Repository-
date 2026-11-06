@@ -25,8 +25,8 @@ Results and Discussion - All
 Continue developing Google Colab code to create more visualizations for different regions (ex: by continent). Brendan and Jessica will determine appropriate statistical tests to provide results for our research question.
 
 ### Implementation of feedback from Midterm Research Plan
-Clarify plans to adjust expenditure values based on inflation. Could the decline in Figure 2 reflect increasing prices due to inflation? 
-Define your planned statistical models and comparisons
+Clarify plans to adjust expenditure values based on inflation. Could the decline in Figure 2 reflect increasing prices due to inflation? \
+Define planned statistical models and comparisons
 
 # October 15 - Midterm Research Plan
 ### Research Question
