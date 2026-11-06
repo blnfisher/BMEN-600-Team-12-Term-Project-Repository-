@@ -8,6 +8,10 @@ Repository for the BMEN 600 final term project
 # November 6
 ### Team Plan & Progress for Reading Week
 
+### Peer Checkpoint (12 <-> 16)
+1) Groups 12 and 16 were paired together because our research is similar in terms of methodology and analysis.
+2) We got some suggestions in terms of analysis and model types such as using regression and random-forest models in addition to our planned statistical tests. It may also be interesting to segment the data by demographics and health conditions.
+
 ### Final Report Roles
 Abstract: Irene \
 Introduction: Irene/Tala \
